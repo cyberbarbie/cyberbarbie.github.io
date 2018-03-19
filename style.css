@@ -32,6 +32,7 @@ header.startup hr {
 
 header.startup h1 {
   font-size: 2rem; 
+  padding-bottom: 5%;
 }
 
 .btn {
